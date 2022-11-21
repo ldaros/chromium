@@ -343,7 +343,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="1753068535428855445">Encontros e anúncios pessoais</translation>
 <translation id="1753706481035618306">Número de página</translation>
 <translation id="1755621011177747277">Adoção</translation>
-<translation id="1756026472674246267">Abrir link num novo separador</translation>
+<translation id="1756026472674246267">Abrir link em uma nova guia</translation>
 <translation id="175656076281618225">Magia</translation>
 <translation id="1757773103848038814">Tipo de letra de monoespaço</translation>
 <translation id="1763864636252898013">Este servidor não conseguiu provar que é o domínio <ph name="DOMAIN" />; o sistema operativo do seu dispositivo não confia no respetivo certificado de segurança. Isto pode ser o resultado de uma configuração incorreta ou de um invasor a intercetar a sua ligação.</translation>
@@ -875,7 +875,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="3229277193950731405">Copiar string da versão</translation>
 <translation id="323107829343500871">Introduzir o Código de Segurança/CVC de <ph name="CREDIT_CARD" /></translation>
 <translation id="3234666976984236645">Detetar sempre conteúdo importante neste site</translation>
-<translation id="3238395604961564389">Abrir link numa janela de navegação anónima</translation>
+<translation id="3238395604961564389">Abrir link em janela anônima</translation>
 <translation id="3240683217920639535"><ph name="MANAGE_CHROME_THEMES_FOCUSED_FRIENDLY_MATCH_TEXT" />, prima Tab e, em seguida, Enter para personalizar o aspeto do seu navegador</translation>
 <translation id="3240791268468473923">A página de credenciais de pagamento seguro sem correspondência com as credenciais está aberta</translation>
 <translation id="324180406144491771">Os links do anfitrião "<ph name="HOST_NAME" />" estão bloqueados</translation>
@@ -1002,7 +1002,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="3532844647053365774"><ph name="HOST" /> pretende utilizar o seu microfone.</translation>
 <translation id="3533328374079021623">Caixa de correio 5</translation>
 <translation id="3537165859691846083">Letter Plus</translation>
-<translation id="3542768452570884558">Abrir link numa nova janela</translation>
+<translation id="3542768452570884558">Abrir link em uma nova janela</translation>
 <translation id="3547746132308051926">20 x 24 pol.</translation>
 <translation id="3550112004925580947">Indústria hoteleira</translation>
 <translation id="3552297013052089404">Tipo de letra Sans Serif</translation>
